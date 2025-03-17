@@ -56,7 +56,7 @@
           <div class="title">Votre image , notre savoir faire</div>
           <div class="des">
             Prenez soin de vous naturellement avec <br>
-            nos produits menstruels réutilisables.
+            nos produits  réutilisables.
           </div>
           <div class="buttons">
             <button>Nos Produits</button>
@@ -71,7 +71,7 @@
           <div class="title">Votre image , notre savoir faire</div>
           <div class="des">
             Prenez soin de vous naturellement avec <br>
-            nos produits menstruels réutilisables.
+            nos produits  réutilisables.
           </div>
           <div class="buttons">
             <button>Nos Produits</button>
@@ -86,7 +86,7 @@
           <div class="title">Votre image , notre savoir faire</div>
           <div class="des">
             Prenez soin de vous naturellement avec <br>
-            nos produits menstruels réutilisables.
+            nos produits  réutilisables.
           </div>
           <div class="buttons">
             <button>Nos Produits</button>
@@ -101,7 +101,7 @@
           <div class="title">Votre image , notre savoir faire</div>
           <div class="des">
             Prenez soin de vous naturellement avec <br>
-            nos produits menstruels réutilisables.
+            nos produits  réutilisables.
           </div>
           <div class="buttons">
             <button>Nos Produits</button>
@@ -122,31 +122,31 @@
       <div class="item">
         <img src="{{ 'assets/image/img17.jpg' }}" alt="Thumbnail 2" />
         <div class="content">
-          <div class="title">Harmoniel</div>
+          <div class="title">Prostyle</div>
         </div>
       </div>
       <div class="item">
         <img src="{{ 'assets/image/img3.jpg' }}" alt="Thumbnail 3" />
         <div class="content">
-          <div class="title">Harmoniel</div>
+          <div class="title">Prostyle</div>
         </div>
       </div>
       <div class="item">
         <img src="{{ 'assets/image/img4.jpg' }}" alt="Thumbnail 4" />
         <div class="content">
-          <div class="title">Harmoniel</div>
+          <div class="title">Prostyle</div>
         </div>
       </div>
       <div class="item">
         <img src="{{ 'assets/image/img5.jpg' }}" alt="Thumbnail 5" />
         <div class="content">
-          <div class="title">Harmoniel</div>
+          <div class="title">Prostyle</div>
         </div>
       </div>
       <div class="item">
         <img src="{{ 'assets/image/img6.jpg' }}" alt="Thumbnail 6" />
         <div class="content">
-          <div class="title">Harmoniel</div>
+          <div class="title">Prostyle</div>
         </div>
       </div>
     </div>
@@ -169,27 +169,36 @@
       <button id="prev-product" class="carousel-arrow"><i class="fa-solid fa-arrow-left"></i></button>
       <div class="product-carousel">
         <div class="product-item">
-          <img src="{{ 'assets/image/img1.jpg' }}" alt="Produit 1" />
-          <h3>Produit 1</h3>
-          <p>Description du produit 1.</p>
+          <img src="{{ 'assets/image/img5.jpg' }}" alt="Produit 1" />
+          <h3>Blouse de Cuisine Professionnelle - Élégance et Confort</h3>
+          <p>Adoptez un style professionnel avec notre blouse de cuisine 
+            conçue pour allier confort et résistance. Fabriquée en tissu respirant, elle offre
+             une liberté de mouvement optimale pour un service impeccable.</p>
           <button class="voir-plus"><a href="{{ route('produit') }}">Voir Plus</a></button>
         </div>
         <div class="product-item">
-          <img src="{{ 'assets/image/img2.jpg' }}" alt="Produit 2" />
-          <h3>Produit 2</h3>
-          <p>Description du produit 2.</p>
+          <img src="{{ 'assets/image/img6.jpg' }}" alt="Produit 2" />
+          <h3>Blouse de Chef - Résistante et Facile d'Entretien</h3>
+          <p>Cette blouse de chef est idéale pour les cuisines exigeantes ! 
+            Son tissu robuste et anti-tâches vous garantit une tenue impeccable même après plusieurs lavages.
+             Look élégant et pratique, elle deviendra votre meilleure alliée.</p>
           <button class="voir-plus"><a  href="{{ route('produit') }}">Voir Plus</a></button>
         </div>
         <div class="product-item">
-          <img src="{{ 'assets/image/img3.jpg' }}" alt="Produit 3" />
-          <h3>Produit 3</h3>
-          <p>Description du produit 3.</p>
+          <img src="{{ 'assets/image/img2.jpg' }}" alt="Produit 3" />
+          <h3>Blouse Blanche pour Soignants - Professionnalisme et Durabilité</h3>
+          <p> Un incontournable pour les professionnels de santé ! Cette blouse blanche
+             est conçue avec un tissu résistant et respirant, parfait pour affronter les 
+             longues journées à l’hôpital ou en cabinet.</p>
           <button class="voir-plus"><a  href="{{ route('produit') }}">Voir Plus</a></button>
         </div>
         <div class="product-item">
-          <img src="{{ 'assets/image/img6.jpg' }}" alt="Produit 4" />
-          <h3>Produit 4</h3>
-          <p>Description du produit 4.</p>
+          <img src="{{ 'assets/image/img21.jpg' }}" alt="Produit 4" />
+          <h3>Blouse Médicale Unisexe - Confort et Hygiène</h3>
+          <p> Conçue pour les professionnels de santé, cette blouse 
+            allie légèreté et praticité. Son tissu respirant et facile
+             à entretenir assure un confort
+             optimal tout au long de la journée.</p>
           <button class="voir-plus"><a  href="{{ route('produit')  }}">Voir Plus</a></button>
         </div>
       </div>
